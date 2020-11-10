@@ -1,0 +1,2 @@
+- name: Get facts for all managed disks
+  azure_rm_managed_disk_facts:
